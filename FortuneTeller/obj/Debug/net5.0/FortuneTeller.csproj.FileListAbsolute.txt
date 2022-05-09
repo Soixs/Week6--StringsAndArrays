@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\ref\FortuneTeller.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\ref\FortuneTeller.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.genruntimeconfig.cache

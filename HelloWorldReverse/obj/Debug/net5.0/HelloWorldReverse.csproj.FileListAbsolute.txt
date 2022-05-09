@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\ref\HelloWorldReverse.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\bin\Debug\net5.0\HelloWorldReverse.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\ref\HelloWorldReverse.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\HelloWorldReverse\obj\Debug\net5.0\HelloWorldReverse.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ref\ACharacterCounter.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ref\ACharacterCounter.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.genruntimeconfig.cache

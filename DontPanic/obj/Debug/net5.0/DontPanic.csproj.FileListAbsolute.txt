@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\bin\Debug\net5.0\ref\DontPanic.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\obj\Debug\net5.0\ref\DontPanic.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\Progemine\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.genruntimeconfig.cache
